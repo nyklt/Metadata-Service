@@ -1,0 +1,1 @@
+{"version":3,"file":"transform.js","sourceRoot":"","sources":["../../../src/app/models/transform.ts"],"names":[],"mappings":";;AACA,qCAAgC;AAEhC,SAAgB,eAAe,CAAC,IAAgB;IAC9C,OAAO,IAAI,eAAM,CAAC,IAAI,CAAC,SAAS,EAAE,IAAI,CAAC,UAAU,EAAE,IAAI,CAAC,IAAI,EAAE,IAAI,CAAC,IAAI,EAAE,IAAI,CAAC,SAAS,EAAE,IAAI,CAAC,aAAa,CAAC,CAAC;AAC/G,CAAC;AAFD,0CAEC"}
